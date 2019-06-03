@@ -1,1 +1,1 @@
-# Aminated_Picture
+# Animated_Picture
